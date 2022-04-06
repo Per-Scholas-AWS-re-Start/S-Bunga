@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-Bunga
  👀 I’m interested in ... Aws Cloud Technology,Ddata science
-- 🌱 I’m currently learning ... Awsc loud practioner skills
+- 🌱 I’m  Aws certified cloud practioner
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
